@@ -1,3 +1,8 @@
+IMAGE FILTER EXPLORER
+
+live link:
+https://github.com/rithanya73/image-filter-explorer
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
