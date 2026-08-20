@@ -1,21 +1,42 @@
-IMAGE FILTER EXPLORER
+# 🖼️ ImageLab – Interactive Image Processing Explorer
 
-live link:
-https://github.com/rithanya73/image-filter-explorer
+**ImageLab** is an interactive web-based image processing application built using **React and Vite**. It allows users to upload an image and explore different image processing techniques, gradient operators, and pixel-level transformations through a simple and user-friendly interface.
 
-# React + Vite
+## ✨ Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* 📤 Upload and preview images
+* 🔍 Explore individual pixel values
+* 🎨 View RGB and grayscale values
+* 🧩 Analyze the 3×3 pixel neighborhood
+* ⚙️ Apply image processing kernels
+* 📐 Sobel X and Sobel Y edge detection
+* 🔲 Prewitt and Roberts operators
+* 💡 Laplacian edge detection
+* ✨ Image sharpening
+* 🖼️ Compare original and processed images
+* 📊 Calculate the difference percentage
+* ⚡ Interactive and responsive interface
 
-Currently, two official plugins are available:
+## 🛠️ Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **React.js**
+* **Vite**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
 
-## React Compiler
+## 🎯 Purpose
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The main goal of ImageLab is to provide an easy and interactive way to understand **spatial-domain image processing and gradient-based edge detection**. It helps users visualize how convolution kernels operate on image pixels and how different operators affect an image.
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://rithanya73.github.io/image-filter-explorer/
+
+## 📌 Project Highlights
+
+ImageLab combines image processing concepts with an interactive web interface, making it useful for students and beginners who want to learn how techniques such as **Sobel, Prewitt, Roberts, Laplacian, and sharpening filters** work at the pixel level.
+
+---
+
+**Developed as an Image Processing learning project using React and Vite.**
